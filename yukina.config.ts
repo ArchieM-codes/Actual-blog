@@ -46,7 +46,7 @@ const YukinaConfig: Configuration = {
   maxFooterTagChip: 24,
 
   banners: [
-    "https://www.pixiv.net/en/artworks/111024784",
+    "https://www.bing.com/images/search?q=cool%20neon%20city%20skyline%20image&FORM=IQFRBA&id=2C9EE73FB7B99EFB986B7207D0E7D13A71A1EEC2",
   ],
 
   slugMode: "HASH", // 'RAW' | 'HASH'
