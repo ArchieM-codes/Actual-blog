@@ -47,6 +47,7 @@ const YukinaConfig: Configuration = {
 
   banners: [
     "https://i.ibb.co/3mzSrhT3/ec32b5a7-1032-4fef-87f3-741bcc9ae3a7.jpg",
+    "https://www.pixiv.net/en/artworks/111024784"
   ],
 
   slugMode: "HASH", // 'RAW' | 'HASH'
