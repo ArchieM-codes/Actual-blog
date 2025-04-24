@@ -46,8 +46,7 @@ const YukinaConfig: Configuration = {
   maxFooterTagChip: 24,
 
   banners: [
-    "https://i.ibb.co/3mzSrhT3/ec32b5a7-1032-4fef-87f3-741bcc9ae3a7.jpg",
-    "https://www.pixiv.net/en/artworks/111024784"
+    "https://www.pixiv.net/en/artworks/111024784",
   ],
 
   slugMode: "HASH", // 'RAW' | 'HASH'
@@ -58,7 +57,7 @@ const YukinaConfig: Configuration = {
   },
 
   // WIP functions
-  bannerStyle: "LOOP", // 'loop' | 'static' | 'hidden'
+  bannerStyle: "STATIC", // 'loop' | 'static' | 'hidden'
 };
 
 export default YukinaConfig;
