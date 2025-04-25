@@ -46,7 +46,7 @@ const YukinaConfig: Configuration = {
   maxFooterTagChip: 24,
 
   banners: [
-    "https://www.bing.com/images/search?q=cool%20neon%20city%20skyline%20image&FORM=IQFRBA&id=2C9EE73FB7B99EFB986B7207D0E7D13A71A1EEC2",
+    "https://static.vecteezy.com/system/resources/previews/024/209/368/large_2x/aesthetic-city-synthwave-wallpaper-with-a-cool-and-vibrant-neon-design-ai-generated-photo.jpg",
   ],
 
   slugMode: "HASH", // 'RAW' | 'HASH'
