@@ -48,7 +48,7 @@ const YukinaConfig: Configuration = {
   banners: [
     "https://static.vecteezy.com/system/resources/previews/024/209/368/large_2x/aesthetic-city-synthwave-wallpaper-with-a-cool-and-vibrant-neon-design-ai-generated-photo.jpg",
     "https://i.ibb.co/dsV5TPvx/89044cff-c313-4070-88ff-ec8823635473.jpg",
-    "https://i.ibb.co/0jJcc4TN/89044cff-c313-4070-88ff-ec8823635473.jpg"
+    "https://i.ibb.co/60J4Wqq2/e9902612-7bf4-488b-8a5c-e0f4b95a0c12.jpg"
   ],
 
   slugMode: "HASH", // 'RAW' | 'HASH'
