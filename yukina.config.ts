@@ -53,7 +53,9 @@ const YukinaConfig: Configuration = {
     "https://i.ibb.co/nMt06NyS/vecteezy-spaceship-next-generation-robotic-spaceship-leaving-the-26975650.jpg",
     "https://i.ibb.co/QFv5cDrM/vecteezy-the-city-skyline-at-night-with-lights-on-ai-generated-34300204.jpg",
     "https://i.ibb.co/WvRHztSf/ai-generated-dark-street-reflection-of-neon-light-on-wet-asphalt-rays-of-light-and-red-laser-light-i.jpg",
-    "https://www.vecteezy.com/photo/1407892-close-up-of-a-computer-screen-with-code-on-it"
+    "https://i.ibb.co/ZztJgK23/vecteezy-close-up-of-a-computer-screen-with-code-on-it-1407892.jpg",
+    "https://i.ibb.co/bM8CSsVm/military-tanks-parked-in-a-row-inside-a-garage-at-night-ready-for-action-photo.jpg",
+    "https://i.ibb.co/pj2RY1my/military-tank-maneuvers-through-muddy-terrain-amidst-fog-in-a-dramatic-and-intense-display-of-power.jpg"
   ],
 
   slugMode: "HASH", // 'RAW' | 'HASH'
