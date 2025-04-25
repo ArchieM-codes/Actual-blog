@@ -55,7 +55,9 @@ const YukinaConfig: Configuration = {
     "https://i.ibb.co/WvRHztSf/ai-generated-dark-street-reflection-of-neon-light-on-wet-asphalt-rays-of-light-and-red-laser-light-i.jpg",
     "https://i.ibb.co/ZztJgK23/vecteezy-close-up-of-a-computer-screen-with-code-on-it-1407892.jpg",
     "https://i.ibb.co/bM8CSsVm/military-tanks-parked-in-a-row-inside-a-garage-at-night-ready-for-action-photo.jpg",
-    "https://i.ibb.co/pj2RY1my/military-tank-maneuvers-through-muddy-terrain-amidst-fog-in-a-dramatic-and-intense-display-of-power.jpg"
+    "https://i.ibb.co/pj2RY1my/military-tank-maneuvers-through-muddy-terrain-amidst-fog-in-a-dramatic-and-intense-display-of-power.jpg",
+    "https://i.ibb.co/zhy0b6N9/Untitled-design.jpg",
+    "https://wallpaperaccess.com/full/500493.jpg"
   ],
 
   slugMode: "HASH", // 'RAW' | 'HASH'
